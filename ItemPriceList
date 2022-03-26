@@ -1,0 +1,23 @@
+<!--Html table-->
+<html>
+    <head>
+        <title>Item-price list</title>
+    </head>
+    <body>
+        <table border="1">
+            <tr>
+                <th colspan="2"><center>Items</center></th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <th><center>Shirt</center></th>
+                <th><center>Trouser</center></th>
+                <td rowspan="2"><center>Rs.<br/>1000/-</center></td>
+            </tr>
+            <tr>
+            <td><center>Rs.400/-</center></td>
+            <td><center>Rs.600/-</center></td>
+            </tr>
+        </table>
+    </body>
+</html>
